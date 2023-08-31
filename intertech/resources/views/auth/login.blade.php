@@ -4,14 +4,11 @@
         <div class="bg-indigo-600 hidden lg:block w-full md:w-1/2 xl:w-2/3 h-screen">
             <img src="https://source.unsplash.com/8FWmjJIEXEw" alt="" class="w-full h-full object-cover">
         </div>
-
         <div class="bg-white w-full md:max-w-md lg:max-w-full md:mx-auto md:mx-0 md:w-1/2 xl:w-1/3 h-screen px-6 lg:px-16 xl:px-12
         flex items-center justify-center">
 
             <div class="w-full h-100">
-
-
-                <h1 class="text-xl md:text-2xl font-bold leading-tight mt-12">Log in to your account</h1>
+                <h1 class="text-xl text-indigo-950 text-center md:text-2xl font-bold leading-tight mt-12">Log in to your account</h1>
 
                 <form class="mt-6" action="#" method="POST">
                     <div>
@@ -44,10 +41,9 @@
             Google</span>
                     </div>
                 </button>
-
-                <p class="mt-8">Need an account? <a href="#" class="text-blue-500 hover:text-blue-700 font-semibold">Create an
-                        account</a></p>
-
+                <div>
+                    <p class="mt-8 text-indigo-950 text-center">Need an account?   <a href="#" class="text-blue-500 hover:text-blue-700 font-semibold">Create an
+                            account</a></p>
 
             </div>
         </div>
